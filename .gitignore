@@ -1,2 +1,3 @@
 # locan env files
 .env.local
+.env.production.local
